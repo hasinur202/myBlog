@@ -1,0 +1,27 @@
+/*Default*/
+.logo h2 {color: #4C4A48;}
+.headersection { background: #69DEFF; }
+.navsection { background: no-repeat scroll 0 0 #FFB26F; }
+.navsection ul li a:hover {	background: #4F6275;color: #FF9800; }
+.navsection ul li {	border-right: 3px solid #A1B4C7; }
+#active { background: #4F6275; color: #FF9800; }
+.social a i {background: #66CCCC;}
+.social a i:hover {	background: #282923;color: #ffff;}
+.searchbtn input[type="text"] {	border: 1px solid #E8B157;	background: #F4EDE7;}
+.searchbtn input[type="submit"]:hover {	background: #b7801c none repeat scroll 0 0;	
+	border: 1px solid #e6af4b;	color: #fff;}
+.samepost h2 {color: #847412; }
+.Contentsection {background: #EFEFDC;border: 1px solid #B5CFCF;}
+.MainContent {	background: #DDF7F7;border: 1px solid #8B8B8B;}
+.samepost img {	border: 2px solid #2222;background: #CCE3FF;}
+.samepost img:hover {background: #E1483B;}
+.samesidebar ul li {background: #E4C0A0;	color: #B6E271;}
+.Readmore {	background: #CCE3FF;}
+.Readmore:hover {background: #E1483B;color: #282923;}
+.popular p {background: #F4CEF5;}
+.popular h3 {background: #E6C773;}
+.popular img {	background: #fff;}
+.popular img:hover {background: #E1483B;color: #282923;}
+.pagination a {	background: #A6BA86;}
+.pagination a:hover {background: #DD4E42;color: #fff;}
+.footersection {background: #888;}
